@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dasrashmi/Covid19-Tracker-App.git/static/css/main.92943667.chunk.css",
+    "main.js": "/dasrashmi/Covid19-Tracker-App.git/static/js/main.ce768bf6.chunk.js",
+    "main.js.map": "/dasrashmi/Covid19-Tracker-App.git/static/js/main.ce768bf6.chunk.js.map",
+    "runtime-main.js": "/dasrashmi/Covid19-Tracker-App.git/static/js/runtime-main.cf788f10.js",
+    "runtime-main.js.map": "/dasrashmi/Covid19-Tracker-App.git/static/js/runtime-main.cf788f10.js.map",
+    "static/css/2.de424728.chunk.css": "/dasrashmi/Covid19-Tracker-App.git/static/css/2.de424728.chunk.css",
+    "static/js/2.e7e47166.chunk.js": "/dasrashmi/Covid19-Tracker-App.git/static/js/2.e7e47166.chunk.js",
+    "static/js/2.e7e47166.chunk.js.map": "/dasrashmi/Covid19-Tracker-App.git/static/js/2.e7e47166.chunk.js.map",
+    "index.html": "/dasrashmi/Covid19-Tracker-App.git/index.html",
+    "precache-manifest.13daef6bba04d7501f4908f20a9e26fb.js": "/dasrashmi/Covid19-Tracker-App.git/precache-manifest.13daef6bba04d7501f4908f20a9e26fb.js",
+    "service-worker.js": "/dasrashmi/Covid19-Tracker-App.git/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/dasrashmi/Covid19-Tracker-App.git/static/css/2.de424728.chunk.css.map",
+    "static/css/main.92943667.chunk.css.map": "/dasrashmi/Covid19-Tracker-App.git/static/css/main.92943667.chunk.css.map",
+    "static/js/2.e7e47166.chunk.js.LICENSE.txt": "/dasrashmi/Covid19-Tracker-App.git/static/js/2.e7e47166.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf788f10.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.e7e47166.chunk.js",
+    "static/css/main.92943667.chunk.css",
+    "static/js/main.ce768bf6.chunk.js"
+  ]
+}
